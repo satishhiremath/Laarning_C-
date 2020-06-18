@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
     std::string pattern{"sat"};
-    std::vector<std::string> v_str{"abcd", "satish", "aabdss", "tas"};
+    std::vector<std::string> v_str{"abcd", "satish", "aabdss", "tas", "sss"};
 
     for (const auto &str: v_str)
     {
